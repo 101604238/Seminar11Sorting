@@ -1,0 +1,14 @@
+E:\Swinburne\Diploma\Programming Weekly Submittables\Week 14 - Unsorted Numbers\Algorithms - Sorting\Algorithms - Sorting\bin\Debug\Algorithms - Sorting.exe.config
+E:\Swinburne\Diploma\Programming Weekly Submittables\Week 14 - Unsorted Numbers\Algorithms - Sorting\Algorithms - Sorting\bin\Debug\Algorithms - Sorting.exe
+E:\Swinburne\Diploma\Programming Weekly Submittables\Week 14 - Unsorted Numbers\Algorithms - Sorting\Algorithms - Sorting\bin\Debug\Algorithms - Sorting.pdb
+E:\Swinburne\Diploma\Programming Weekly Submittables\Week 14 - Unsorted Numbers\Algorithms - Sorting\Algorithms - Sorting\obj\Debug\Algorithms - Sorting.csproj.CoreCompileInputs.cache
+E:\Swinburne\Diploma\Programming Weekly Submittables\Week 14 - Unsorted Numbers\Algorithms - Sorting\Algorithms - Sorting\obj\Debug\Algorithms - Sorting.exe
+E:\Swinburne\Diploma\Programming Weekly Submittables\Week 14 - Unsorted Numbers\Algorithms - Sorting\Algorithms - Sorting\obj\Debug\Algorithms - Sorting.pdb
+H:\Swinburne\Diploma\Programming Weekly Submittables\Week 14 - Unsorted Numbers\Algorithms - Sorting\Algorithms - Sorting\bin\Debug\Algorithms - Sorting.exe.config
+H:\Swinburne\Diploma\Programming Weekly Submittables\Week 14 - Unsorted Numbers\Algorithms - Sorting\Algorithms - Sorting\bin\Debug\Algorithms - Sorting.exe
+H:\Swinburne\Diploma\Programming Weekly Submittables\Week 14 - Unsorted Numbers\Algorithms - Sorting\Algorithms - Sorting\bin\Debug\Algorithms - Sorting.pdb
+H:\Swinburne\Diploma\Programming Weekly Submittables\Week 14 - Unsorted Numbers\Algorithms - Sorting\Algorithms - Sorting\obj\Debug\Algorithms - Sorting.csprojResolveAssemblyReference.cache
+H:\Swinburne\Diploma\Programming Weekly Submittables\Week 14 - Unsorted Numbers\Algorithms - Sorting\Algorithms - Sorting\obj\Debug\Algorithms - Sorting.csproj.CoreCompileInputs.cache
+H:\Swinburne\Diploma\Programming Weekly Submittables\Week 14 - Unsorted Numbers\Algorithms - Sorting\Algorithms - Sorting\obj\Debug\Algorithms - Sorting.exe
+H:\Swinburne\Diploma\Programming Weekly Submittables\Week 14 - Unsorted Numbers\Algorithms - Sorting\Algorithms - Sorting\obj\Debug\Algorithms - Sorting.pdb
+E:\Swinburne\Diploma\Programming Weekly Submittables\Week 14 - Unsorted Numbers\Algorithms - Sorting\Algorithms - Sorting\obj\Debug\Algorithms - Sorting.csprojResolveAssemblyReference.cache
